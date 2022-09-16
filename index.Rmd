@@ -7,7 +7,7 @@ links:
   - label: ISPAAM
     url: "https://https://www.ispaam.cnr.it/?lang=en"
   - label: Contact
-    url: "mailto:biffani@ibba.cnr.it"
+    url: "mailto:side.event@ibba.cnr.it"
 #image: foto1.png
 output:
   postcards::trestles
