@@ -1,24 +1,25 @@
 ---
 title: "Side Event to the FAO Science and Innovation Forum"
-date: December 7th, 2018
+image: foto2.jpg
 links:
   - label: IBBA
     url: "https://ibba.cnr.it/en/"
   - label: ISPAAM
     url: "https://https://www.ispaam.cnr.it/?lang=en"
-  - label: Email
+  - label: Contact
     url: "mailto:biffani@ibba.cnr.it"
+#image: foto1.png
 output:
   postcards::trestles
 ---
  
 ## Animal Resources for a Sustainable Environment
 
-### When: 
+### <span style="color: blue;">When:</span> 
 
 12 October 2022
 
-### Where:
+### <span style="color: blue;">Where:</span>
 
 ### Outline
 
@@ -26,17 +27,26 @@ The event will focus on recent advancements in animal breeding, management and w
 
 The idea is not only to present scientific contributions and on-going projects but also to listen to who, like breeders’ associations, are trying to turn ideas into practice.    
 
+
+```{r out.width = "80%", fig.align = "center",echo=F}
+knitr::include_graphics("foto3.jpg")
+```
+
+
+
 ### LIST OF THE PRESENTATIONS:
+
+
 
 #### Scientific Side
 
-* Tania Bobbo, IBBA-CNR, Milan, Italy
-* Paul Boettcher, AGA-FAO, Rome, Italy
-* Bianca Castiglioni, IBBA-CNR, Milan, Italy
-* Alessandra Iannuzzi, ISPAAM-CNR, Naples, Italy
+* <span style="color: green;">Tania Bobbo, IBBA-CNR, Milan, Italy</span>
+* <span style="color: green;">Paul Boettcher, AGA-FAO, Rome, Italy</span>
+* <span style="color: green;">Bianca Castiglioni, IBBA-CNR, Milan, Italy</span>
+* <span style="color: green;">Alessandra Iannuzzi, ISPAAM-CNR, Naples, Italy</span>
 
 #### Breeder Association Side
 
-* Mayra Goméz, ANASB, Caserta, Italy
-* Alessio Negro, AssoNaPa, Rome, Italy
+* <span style="color: green;"> Mayra Goméz, ANASB, Caserta, Italy</span>
+* <span style="color: green;"> Alessio Negro, AssoNaPa, Rome, Italy</span>
 
