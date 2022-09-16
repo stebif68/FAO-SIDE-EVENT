@@ -1,6 +1,7 @@
 ---
-title: "Tobi Burns"
-image: "tobi.jpg"
+title: "Side Event to the FAO Science and Innovation Forum"
+date: "12 October 2022"
+image: "IBBA.jpg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/"
@@ -14,6 +15,10 @@ output:
   postcards::jolla
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+# Animal Resources for a Sustainable Environment
+
+The event will focus on recent advancements in animal breeding, management and welfare of livestock other than cattle. Special attention will be giving to species like buffaloes, sheep and goats. These species are efficient converter of poor quality forages into high quality milk and meat and are going to be determinant to economic and environmental sustainability worldwide. Genomic selection as well as application of machine learning algorithms for management purposes are effective solutions for the near future.
+
+The idea is not only to present scientific contributions and on-going projects but also to listen to who, like breeders’ associations, are trying to turn ideas into practice.    
+
+
