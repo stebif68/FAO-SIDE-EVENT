@@ -41,7 +41,7 @@ knitr::include_graphics("foto3.jpg")
 #### Scientific Side
 
 -   [Tania Bobbo, IBBA-CNR, Milan, Italy]{style="color: green;"}
--   [Paul Boettcher, AGA-FAO, Rome, Italy]{style="color: green;"}
+-   [Paul Boettcher, NSA-FAO, Rome, Italy]{style="color: green;"}
 -   [Bianca Castiglioni, IBBA-CNR, Milan, Italy]{style="color: green;"}
 -   [Alessandra Iannuzzi, ISPAAM-CNR, Naples, Italy]{style="color: green;"}
 
